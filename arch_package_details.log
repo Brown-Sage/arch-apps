@@ -1,4 +1,4 @@
-Package details 2024-10-23 03:00:03
+Package details 2024-10-24 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -209,12 +209,12 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: downgrade
-Version         : 11.3.0-1
+Version         : 11.4.2-1
 Description     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
-Install Date    : Monday 16 September 2024 03:46:02 PM
+Install Date    : Thursday 24 October 2024 02:51:39 AM
 Install Reason  : Explicitly installed
 Install Script  : No
-Validated By    : Signature
+Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: dracut
 Version         : 105-1
@@ -505,9 +505,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-control-center
-Version         : 47.0.1-1
+Version         : 47.1.1-1
 Description     : GNOME's main interface to configure various aspects of the desktop
-Install Date    : Friday 20 September 2024 06:13:38 PM
+Install Date    : Thursday 24 October 2024 02:51:39 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -617,9 +617,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: google-chrome
-Version         : 130.0.6723.58-1
+Version         : 130.0.6723.69-1
 Description     : The popular web browser by Google (Stable Channel)
-Install Date    : Monday 21 October 2024 01:48:25 AM
+Install Date    : Thursday 24 October 2024 02:53:56 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -785,9 +785,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: iwd
-Version         : 2.22-1
+Version         : 3.0-1
 Description     : Internet Wireless Daemon
-Install Date    : Monday 16 September 2024 03:46:02 PM
+Install Date    : Thursday 24 October 2024 02:51:39 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -840,6 +840,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: libreoffice-still
+Version         : 24.2.6-5
+Description     : LibreOffice maintenance branch
+Install Date    : Thursday 24 October 2024 12:23:55 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
 Package: libwnck3
 Version         : 43.1-1
 Description     : Library to manage X windows and workspaces (for e.g. pagers or tasklists)
@@ -849,9 +857,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux
-Version         : 6.11.4.arch1-1
+Version         : 6.11.5.arch1-1
 Description     : The Linux kernel and modules
-Install Date    : Monday 21 October 2024 01:38:21 AM
+Install Date    : Thursday 24 October 2024 02:51:40 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -865,9 +873,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-headers
-Version         : 6.11.4.arch1-1
+Version         : 6.11.5.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
-Install Date    : Monday 21 October 2024 01:38:22 AM
+Install Date    : Thursday 24 October 2024 02:51:41 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -953,9 +961,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: meson
-Version         : 1.5.2-1
+Version         : 1.6.0-1
 Description     : High productivity build system
-Install Date    : Monday 23 September 2024 09:26:19 PM
+Install Date    : Thursday 24 October 2024 02:51:41 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1465,9 +1473,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: totem
-Version         : 43.0-3
+Version         : 43.1-1
 Description     : Movie player for the GNOME desktop based on GStreamer
-Install Date    : Monday 16 September 2024 04:15:03 PM
+Install Date    : Thursday 24 October 2024 02:51:41 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1681,9 +1689,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: xfsprogs
-Version         : 6.10.1-1
+Version         : 6.11.0-1
 Description     : XFS filesystem utilities
-Install Date    : Monday 16 September 2024 03:44:47 PM
+Install Date    : Thursday 24 October 2024 02:51:42 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

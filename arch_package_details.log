@@ -1,4 +1,4 @@
-Package details 2024-12-16 03:00:02
+Package details 2024-12-20 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -321,9 +321,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-log-tool
-Version         : 24.8.1-1
+Version         : 24.12-1
 Description     : Gathers selected system logs and sends them to the internet.
-Install Date    : Monday 16 September 2024 03:46:06 PM
+Install Date    : Friday 20 December 2024 02:55:20 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -497,9 +497,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-calculator
-Version         : 47.0-1
+Version         : 47.1-1
 Description     : GNOME Scientific calculator
-Install Date    : Friday 20 September 2024 06:13:37 PM
+Install Date    : Thursday 19 December 2024 05:13:29 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -633,9 +633,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: google-chrome
-Version         : 131.0.6778.139-1
+Version         : 131.0.6778.204-1
 Description     : The popular web browser by Google (Stable Channel)
-Install Date    : Sunday 15 December 2024 01:52:12 AM
+Install Date    : Thursday 19 December 2024 05:25:29 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -1593,9 +1593,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: visual-studio-code-bin
-Version         : 1.96.0-1
+Version         : 1.96.1-1
 Description     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
-Install Date    : Sunday 15 December 2024 01:52:12 AM
+Install Date    : Thursday 19 December 2024 05:25:28 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -1737,9 +1737,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: xorg-server
-Version         : 21.1.14-1
+Version         : 21.1.15-1
 Description     : Xorg X server
-Install Date    : Tuesday 29 October 2024 10:59:34 PM
+Install Date    : Thursday 19 December 2024 05:13:30 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature

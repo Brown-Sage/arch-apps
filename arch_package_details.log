@@ -1,4 +1,4 @@
-Package details 2024-12-20 03:00:03
+Package details 2025-01-10 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -113,17 +113,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: bind
-Version         : 9.20.4-1
+Version         : 9.20.4-2
 Description     : A complete, highly portable implementation of the DNS protocol
-Install Date    : Sunday 15 December 2024 01:43:30 AM
+Install Date    : Thursday 02 January 2025 10:18:47 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: blueprint-compiler
-Version         : 0.14.0-2
+Version         : 0.14.0-3
 Description     : A markup language for GTK user interfaces
-Install Date    : Sunday 08 December 2024 06:50:11 PM
+Install Date    : Thursday 26 December 2024 11:42:10 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -145,9 +145,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: btrfs-progs
-Version         : 6.12-1
+Version         : 6.12-2
 Description     : Btrfs filesystem utilities
-Install Date    : Wednesday 04 December 2024 11:35:17 PM
+Install Date    : Thursday 26 December 2024 11:42:10 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -329,20 +329,20 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-packagelist
-Version         : 2.3.1-1
+Version         : 2.3.1-2
 Description     : An application to gather and optionally install package lists from the EndeavourOS installer
-Install Date    : Monday 16 September 2024 03:46:06 PM
+Install Date    : Thursday 26 December 2024 11:42:12 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-qogir-icons
-Version         : 5-1
+Version         : 6-1
 Description     : A colorful design icon theme for linux desktops
-Install Date    : Monday 16 September 2024 03:46:09 PM
+Install Date    : Sunday 29 December 2024 12:32:44 AM
 Install Reason  : Explicitly installed
 Install Script  : No
-Validated By    : Signature
+Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-quickstart
 Version         : 1.4.1-1
@@ -449,9 +449,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firewalld
-Version         : 2.3.0-1
+Version         : 2.3.0-2
 Description     : Firewall daemon with D-Bus interface
-Install Date    : Thursday 07 November 2024 11:43:32 PM
+Install Date    : Thursday 26 December 2024 11:42:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -481,17 +481,17 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: glances
-Version         : 4.2.1-1
+Version         : 4.3.0.6-1
 Description     : CLI curses-based monitoring tool
-Install Date    : Tuesday 05 November 2024 11:25:16 PM
+Install Date    : Thursday 02 January 2025 10:18:47 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-browser-connector
-Version         : 42.1-6
+Version         : 42.1-7
 Description     : Native browser connector for integration with extensions.gnome.org
-Install Date    : Monday 07 October 2024 08:11:10 PM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -609,9 +609,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-tweaks
-Version         : 46.1-1
+Version         : 46.1-2
 Description     : Graphical interface for advanced GNOME 3 settings (Tweak Tool)
-Install Date    : Monday 16 September 2024 03:46:12 PM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -649,9 +649,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: gst-libav
-Version         : 1.24.10-1
+Version         : 1.24.10-2
 Description     : Multimedia graph framework - libav plugin
-Install Date    : Thursday 05 December 2024 11:30:10 AM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -665,17 +665,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gst-plugins-bad
-Version         : 1.24.10-1
+Version         : 1.24.10-2
 Description     : Multimedia graph framework - bad plugins
-Install Date    : Thursday 05 December 2024 11:30:10 AM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gst-plugins-ugly
-Version         : 1.24.10-1
+Version         : 1.24.10-2
 Description     : Multimedia graph framework - ugly plugins
-Install Date    : Thursday 05 December 2024 11:30:11 AM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -809,11 +809,19 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: iwd
-Version         : 3.2-1
+Version         : 3.3-1
 Description     : Internet Wireless Daemon
-Install Date    : Wednesday 04 December 2024 11:35:24 PM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
+Validated By    : Signature
+------------------------
+Package: jdk-openjdk
+Version         : 23.0.1.u0-1
+Description     : OpenJDK Java 23 development kit
+Install Date    : Thursday 02 January 2025 10:19:24 PM
+Install Reason  : Explicitly installed
+Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: jfsutils
@@ -865,9 +873,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: libreoffice-still
-Version         : 24.2.7-2
+Version         : 24.2.7-4
 Description     : LibreOffice maintenance branch
-Install Date    : Monday 18 November 2024 02:08:05 AM
+Install Date    : Thursday 26 December 2024 11:42:20 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -881,9 +889,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux
-Version         : 6.12.4.arch1-1
+Version         : 6.12.7.arch1-1
 Description     : The Linux kernel and modules
-Install Date    : Tuesday 10 December 2024 02:25:32 PM
+Install Date    : Sunday 29 December 2024 12:32:46 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -897,9 +905,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-headers
-Version         : 6.12.4.arch1-1
+Version         : 6.12.7.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
-Install Date    : Tuesday 10 December 2024 02:25:33 PM
+Install Date    : Sunday 29 December 2024 12:32:48 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -921,9 +929,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: lsb-release
-Version         : 2.0.r53.a86f885-2
+Version         : 2.0.r55.a25a4fc-1
 Description     : LSB version query program
-Install Date    : Monday 16 September 2024 03:44:46 PM
+Install Date    : Thursday 26 December 2024 11:42:22 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -969,9 +977,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: meld
-Version         : 3.22.2-3
+Version         : 3.22.2-5
 Description     : Compare files, directories and working copies
-Install Date    : Monday 16 September 2024 03:46:09 PM
+Install Date    : Thursday 26 December 2024 11:42:22 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -985,9 +993,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: meson
-Version         : 1.6.0-4
+Version         : 1.6.1-1
 Description     : High productivity build system
-Install Date    : Tuesday 10 December 2024 02:25:33 PM
+Install Date    : Thursday 26 December 2024 11:42:22 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1017,9 +1025,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: mysql-workbench
-Version         : 8.0.40-4
+Version         : 8.0.40-5
 Description     : A cross-platform, visual database design tool developed by MySQL
-Install Date    : Wednesday 04 December 2024 12:58:22 PM
+Install Date    : Thursday 26 December 2024 11:42:22 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1041,9 +1049,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: nautilus
-Version         : 47.1-1
+Version         : 47.1-2
 Description     : Default file manager for GNOME
-Install Date    : Tuesday 10 December 2024 02:25:33 PM
+Install Date    : Thursday 26 December 2024 11:42:17 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1065,9 +1073,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: networkmanager
-Version         : 1.50.0-1
+Version         : 1.50.1-1
 Description     : Network connection manager and user applications
-Install Date    : Friday 11 October 2024 12:13:27 AM
+Install Date    : Thursday 26 December 2024 11:42:22 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1169,9 +1177,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: obsidian-cli
-Version         : 0.1.7-2
+Version         : 0.1.8-2
 Description     : Interact with Obsidian in the terminal. Open, search, create, update and move notes!
-Install Date    : Monday 16 September 2024 11:57:47 PM
+Install Date    : Sunday 29 December 2024 12:33:59 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1273,9 +1281,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: poppler-glib
-Version         : 24.11.0-2
+Version         : 24.12.0-1
 Description     : Poppler glib bindings
-Install Date    : Monday 18 November 2024 02:08:08 AM
+Install Date    : Thursday 26 December 2024 11:42:16 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1297,49 +1305,49 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: pv
-Version         : 1.9.15-1
+Version         : 1.9.25-1
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline
-Install Date    : Tuesday 10 December 2024 02:25:33 PM
+Install Date    : Thursday 26 December 2024 11:42:23 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python
-Version         : 3.12.7-1
+Version         : 3.13.1-1
 Description     : The Python programming language
-Install Date    : Monday 14 October 2024 07:21:34 PM
+Install Date    : Thursday 26 December 2024 11:42:09 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python-capng
-Version         : 0.8.5-2
+Version         : 0.8.5-3
 Description     : A library for Linux that makes using posix capabilities easy (Python bindings)
-Install Date    : Monday 16 September 2024 03:46:09 PM
+Install Date    : Thursday 26 December 2024 11:42:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python-defusedxml
-Version         : 0.7.1-6
+Version         : 0.7.1-7
 Description     : XML bomb protection for Python stdlib modules
-Install Date    : Monday 16 September 2024 03:46:09 PM
+Install Date    : Thursday 26 December 2024 11:42:15 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python-packaging
-Version         : 24.2-1
+Version         : 24.2-3
 Description     : Core utilities for Python packages
-Install Date    : Monday 18 November 2024 02:08:08 AM
+Install Date    : Thursday 26 December 2024 11:42:15 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python-pyqt5
-Version         : 5.15.11-1
+Version         : 5.15.11-2
 Description     : A set of Python bindings for the Qt5 toolkit
-Install Date    : Monday 16 September 2024 03:46:10 PM
+Install Date    : Thursday 26 December 2024 11:42:23 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1361,9 +1369,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: reflector
-Version         : 2023-2
+Version         : 2023-3
 Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
-Install Date    : Monday 16 September 2024 03:46:02 PM
+Install Date    : Thursday 26 December 2024 11:42:24 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1449,9 +1457,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: sudo
-Version         : 1.9.16.p2-1
+Version         : 1.9.16.p2-2
 Description     : Give certain users the ability to run some commands as root
-Install Date    : Wednesday 04 December 2024 11:35:30 PM
+Install Date    : Thursday 26 December 2024 11:42:24 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1473,17 +1481,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: systemd-sysvcompat
-Version         : 257-1
+Version         : 257.1-1
 Description     : sysvinit compat for systemd
-Install Date    : Sunday 15 December 2024 01:43:34 AM
+Install Date    : Thursday 26 December 2024 11:42:24 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: telegram-desktop
-Version         : 5.9.0-1
+Version         : 5.9.0-3
 Description     : Official Telegram Desktop client
-Install Date    : Thursday 05 December 2024 11:30:11 AM
+Install Date    : Thursday 26 December 2024 11:42:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1497,9 +1505,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: tldr
-Version         : 3.3.0-1
+Version         : 3.3.0-2
 Description     : Command line client for tldr, a collection of simplified man pages.
-Install Date    : Monday 16 September 2024 03:46:09 PM
+Install Date    : Thursday 26 December 2024 11:42:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1593,33 +1601,33 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: visual-studio-code-bin
-Version         : 1.96.1-1
+Version         : 1.96.2-1
 Description     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
-Install Date    : Thursday 19 December 2024 05:25:28 PM
+Install Date    : Thursday 26 December 2024 11:45:50 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
 ------------------------
 Package: vlc
-Version         : 3.0.21-9
+Version         : 3.0.21-11
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
-Install Date    : Monday 18 November 2024 02:08:10 AM
+Install Date    : Thursday 26 December 2024 11:42:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: wayland-protocols
-Version         : 1.38-1
+Version         : 1.39-1
 Description     : Specifications of extended Wayland protocols
-Install Date    : Monday 14 October 2024 07:21:37 PM
+Install Date    : Thursday 26 December 2024 11:42:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: welcome
-Version         : 24.12.6-1
+Version         : 24.12.7-1
 Description     : Welcome greeter for new EndeavourOS users.
-Install Date    : Sunday 15 December 2024 01:43:34 AM
+Install Date    : Thursday 26 December 2024 11:42:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature

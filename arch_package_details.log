@@ -1,4 +1,4 @@
-Package details 2025-01-23 03:00:03
+Package details 2025-01-25 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -470,6 +470,14 @@ Description     : Display manager and login screen
 Install Date    : Friday 22 November 2024 07:56:02 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
+Validated By    : Signature
+------------------------
+Package: gedit
+Version         : 48.1-2
+Description     : Easy-to-use general-purpose text editor
+Install Date    : Friday 24 January 2025 11:00:48 AM
+Install Reason  : Explicitly installed
+Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: git
@@ -1071,6 +1079,14 @@ Install Date    : Wednesday 18 September 2024 10:17:58 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
+------------------------
+Package: neofetch
+Version         : 7.1.0-2
+Description     : A CLI system information tool written in BASH that supports displaying images.
+Install Date    : Friday 24 January 2025 10:42:13 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
 ------------------------
 Package: netctl
 Version         : 1.29-2

@@ -1,4 +1,4 @@
-Package details 2025-01-27 03:00:03
+Package details 2025-01-30 03:00:04
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -105,17 +105,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: bc
-Version         : 1.07.1-5
+Version         : 1.08.1-1
 Description     : An arbitrary precision calculator language
-Install Date    : Thursday 24 October 2024 03:02:29 AM
+Install Date    : Wednesday 29 January 2025 09:11:05 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: bind
-Version         : 9.20.4-2
+Version         : 9.20.5-1
 Description     : A complete, highly portable implementation of the DNS protocol
-Install Date    : Thursday 02 January 2025 10:18:47 PM
+Install Date    : Wednesday 29 January 2025 10:16:45 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -289,9 +289,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: endeavouros-mirrorlist
-Version         : 25.1-1
+Version         : 25.1.1-1
 Description     : EndeavourOS mirrorlist
-Install Date    : Saturday 18 January 2025 01:07:29 AM
+Install Date    : Wednesday 29 January 2025 09:11:06 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -353,9 +353,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-rankmirrors
-Version         : 25-1
+Version         : 25.1-1
 Description     : EndeavourOS mirror ranking tool
-Install Date    : Saturday 18 January 2025 01:07:29 AM
+Install Date    : Wednesday 29 January 2025 09:11:06 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -433,17 +433,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firefox
-Version         : 134.0.1-1
+Version         : 134.0.2-1
 Description     : Fast, Private & Safe Web Browser
-Install Date    : Saturday 18 January 2025 01:07:30 AM
+Install Date    : Wednesday 29 January 2025 09:11:07 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firefox-developer-edition
-Version         : 135.0b5-1
+Version         : 135.0b9-1
 Description     : Fast, Private & Safe Web Browser (Developer Edition)
-Install Date    : Saturday 18 January 2025 01:07:30 AM
+Install Date    : Wednesday 29 January 2025 09:11:07 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -569,9 +569,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-screenshot
-Version         : 41.0+r39+ga362197-2
+Version         : 41.0+r39+ga362197-3
 Description     : Take pictures of your screen
-Install Date    : Monday 16 September 2024 03:46:11 PM
+Install Date    : Wednesday 29 January 2025 09:11:07 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -601,17 +601,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-terminal
-Version         : 3.54.2-1
+Version         : 3.54.3-1
 Description     : The GNOME Terminal Emulator
-Install Date    : Wednesday 04 December 2024 11:35:22 PM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-text-editor
-Version         : 47.2-1
+Version         : 47.3-1
 Description     : A simple text editor for the GNOME desktop
-Install Date    : Wednesday 04 December 2024 11:35:22 PM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -649,9 +649,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: google-chrome
-Version         : 132.0.6834.83-1
+Version         : 132.0.6834.159-1
 Description     : The popular web browser by Google (Stable Channel)
-Install Date    : Saturday 18 January 2025 01:29:52 AM
+Install Date    : Wednesday 29 January 2025 10:17:36 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -697,49 +697,49 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gvfs
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gvfs-afc
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO - AFC backend (Apple mobile devices)
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gvfs-gphoto2
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO - gphoto2 backend (PTP camera, MTP media player)
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gvfs-mtp
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO - MTP backend (Android, media player)
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gvfs-nfs
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO - NFS backend
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: gvfs-smb
-Version         : 1.56.1-1
+Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO - SMB/CIFS backend (Windows file sharing)
-Install Date    : Saturday 19 October 2024 12:28:50 AM
+Install Date    : Wednesday 29 January 2025 09:11:08 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -833,9 +833,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: jdk-openjdk
-Version         : 23.0.1.u0-2
+Version         : 23.0.2.u7-1
 Description     : OpenJDK Java 23 development kit
-Install Date    : Saturday 18 January 2025 01:07:35 AM
+Install Date    : Wednesday 29 January 2025 09:11:09 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -905,9 +905,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux
-Version         : 6.12.9.arch1-1
+Version         : 6.12.10.arch1-1
 Description     : The Linux kernel and modules
-Install Date    : Saturday 18 January 2025 01:07:38 AM
+Install Date    : Wednesday 29 January 2025 09:11:10 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -921,9 +921,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-headers
-Version         : 6.12.9.arch1-1
+Version         : 6.12.10.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
-Install Date    : Saturday 18 January 2025 01:07:39 AM
+Install Date    : Wednesday 29 January 2025 09:11:13 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -977,9 +977,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: man-pages
-Version         : 6.9.1-1
+Version         : 6.10-1
 Description     : Linux man pages
-Install Date    : Monday 16 September 2024 03:44:46 PM
+Install Date    : Wednesday 29 January 2025 09:11:13 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1009,9 +1009,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: meson
-Version         : 1.6.1-1
+Version         : 1.7.0-1
 Description     : High productivity build system
-Install Date    : Thursday 26 December 2024 11:42:22 PM
+Install Date    : Wednesday 29 January 2025 09:11:13 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1033,17 +1033,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: mtools
-Version         : 1:4.0.46-1
+Version         : 1:4.0.47-1
 Description     : A collection of utilities to access MS-DOS disks
-Install Date    : Friday 22 November 2024 07:56:02 PM
+Install Date    : Wednesday 29 January 2025 09:11:13 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: mysql-workbench
-Version         : 8.0.40-7
+Version         : 8.0.41-1
 Description     : A cross-platform, visual database design tool developed by MySQL
-Install Date    : Saturday 18 January 2025 01:07:40 AM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1097,9 +1097,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: networkmanager
-Version         : 1.50.1-2
+Version         : 1.50.2-1
 Description     : Network connection manager and user applications
-Install Date    : Saturday 18 January 2025 01:07:40 AM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1209,9 +1209,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: openrgb-git
-Version         : 0.9.1153.g236e67e-1
+Version         : 0.9.1183.g08d00ff-1
 Description     : Configuration utility for RGB lights supporting motherboards, RAM, & peripherals
-Install Date    : Saturday 18 January 2025 01:29:51 AM
+Install Date    : Wednesday 29 January 2025 10:17:37 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1257,9 +1257,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: perl
-Version         : 5.40.0-1
+Version         : 5.40.1-1
 Description     : A highly capable, feature-rich programming language
-Install Date    : Monday 16 September 2024 03:44:43 PM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1513,9 +1513,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: telegram-desktop
-Version         : 5.10.3-1
+Version         : 5.10.6-1
 Description     : Official Telegram Desktop client
-Install Date    : Saturday 18 January 2025 01:07:42 AM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1569,25 +1569,25 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: ttf-opensans
-Version         : 1.101-5
+Version         : 3.003-1
 Description     : Sans-serif typeface commissioned by Google
-Install Date    : Saturday 18 January 2025 01:07:42 AM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: unrar
-Version         : 1:7.1.2-1
+Version         : 1:7.1.3-1
 Description     : The RAR uncompression program
-Install Date    : Thursday 05 December 2024 11:30:11 AM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: unzip
-Version         : 6.0-21
+Version         : 6.0-22
 Description     : For extracting and viewing files in .zip archives
-Install Date    : Monday 16 September 2024 03:46:04 PM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1633,9 +1633,9 @@ Install Script  : Yes
 Validated By    : None
 ------------------------
 Package: vlc
-Version         : 3.0.21-11
+Version         : 3.0.21-12
 Description     : Multi-platform MPEG, VCD/DVD, and DivX player
-Install Date    : Thursday 26 December 2024 11:42:25 PM
+Install Date    : Wednesday 29 January 2025 09:11:15 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1681,9 +1681,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: wpa_supplicant
-Version         : 2:2.11-2
+Version         : 2:2.11-3
 Description     : A utility providing key negotiation for WPA wireless networks
-Install Date    : Monday 16 September 2024 03:46:02 PM
+Install Date    : Wednesday 29 January 2025 09:11:14 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1697,9 +1697,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: xdg-desktop-portal-gnome
-Version         : 47.1-2
+Version         : 47.2-1
 Description     : Backend implementation for xdg-desktop-portal for the GNOME desktop environment
-Install Date    : Tuesday 05 November 2024 11:25:22 PM
+Install Date    : Wednesday 29 January 2025 09:11:15 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1713,9 +1713,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: xdg-user-dirs-gtk
-Version         : 0.12-1
+Version         : 0.14-1
 Description     : Creates user dirs and asks to relocalize them
-Install Date    : Saturday 18 January 2025 01:07:32 AM
+Install Date    : Wednesday 29 January 2025 09:11:15 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

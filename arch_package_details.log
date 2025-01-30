@@ -1,4 +1,4 @@
-Package details 2025-01-30 03:00:04
+Package details 2025-01-31 03:00:02
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -353,9 +353,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-rankmirrors
-Version         : 25.1-1
+Version         : 25.1.1-1
 Description     : EndeavourOS mirror ranking tool
-Install Date    : Wednesday 29 January 2025 09:11:06 PM
+Install Date    : Thursday 30 January 2025 10:46:08 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -772,6 +772,14 @@ Package: hidamari
 Version         : 3.6-1
 Description     : Video wallpaper for Linux. Written in Python.
 Install Date    : Saturday 18 January 2025 01:29:51 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : None
+------------------------
+Package: hollywood
+Version         : 1.21-7
+Description     : Fill your console with Hollywood melodrama technobabble.
+Install Date    : Thursday 30 January 2025 11:20:53 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1329,9 +1337,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: pv
-Version         : 1.9.27-1
+Version         : 1.9.31-1
 Description     : A terminal-based tool for monitoring the progress of data through a pipeline
-Install Date    : Saturday 18 January 2025 01:07:41 AM
+Install Date    : Thursday 30 January 2025 10:46:08 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

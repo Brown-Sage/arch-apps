@@ -1,4 +1,4 @@
-Package details 2025-02-02 03:00:18
+Package details 2025-02-06 03:00:18
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -515,7 +515,7 @@ Validated By    : Signature
 Package: gnome-browser-connector
 Version         : 42.1-7
 Description     : Native browser connector for integration with extensions.gnome.org
-Install Date    : Thursday 26 December 2024 11:42:17 PM
+Install Date    : Sunday 02 February 2025 03:35:04 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -596,6 +596,14 @@ Package: gnome-shell
 Version         : 1:47.3-1
 Description     : Next generation desktop shell
 Install Date    : Saturday 18 January 2025 01:07:32 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: gnome-shell-extensions
+Version         : 47.3-1
+Description     : Extensions for GNOME shell, including classic mode
+Install Date    : Sunday 02 February 2025 03:35:04 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -712,6 +720,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: gtk3-classic
+Version         : 3.24.48-2
+Description     : Patched GTK+3 that provides a more classic experience
+Install Date    : Sunday 02 February 2025 05:02:23 PM
+Install Reason  : Explicitly installed
+Install Script  : Yes
+Validated By    : None
+------------------------
 Package: gvfs
 Version         : 1.56.1-2
 Description     : Virtual filesystem implementation for GIO
@@ -788,14 +804,6 @@ Package: hidamari
 Version         : 3.6-1
 Description     : Video wallpaper for Linux. Written in Python.
 Install Date    : Saturday 18 January 2025 01:29:51 AM
-Install Reason  : Explicitly installed
-Install Script  : No
-Validated By    : None
-------------------------
-Package: hollywood
-Version         : 1.21-7
-Description     : Fill your console with Hollywood melodrama technobabble.
-Install Date    : Thursday 30 January 2025 11:20:53 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1112,6 +1120,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: neovim
+Version         : 0.10.4-1
+Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
+Install Date    : Sunday 02 February 2025 03:40:18 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
 Package: netctl
 Version         : 1.29-2
 Description     : Profile based systemd network management
@@ -1228,6 +1244,14 @@ Package: obsidian-cli
 Version         : 0.1.8-2
 Description     : Interact with Obsidian in the terminal. Open, search, create, update and move notes!
 Install Date    : Sunday 29 December 2024 12:33:59 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : None
+------------------------
+Package: oneko
+Version         : 1.2.5-5
+Description     : A cat that chases around your cursor
+Install Date    : Monday 03 February 2025 06:17:44 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1648,6 +1672,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: vim
+Version         : 9.1.1055-1
+Description     : Vi Improved, a highly configurable, improved version of the vi text editor
+Install Date    : Tuesday 04 February 2025 12:00:49 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
 Package: visual-studio-code-bin
 Version         : 1.96.4-1
 Description     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
@@ -1703,6 +1735,14 @@ Install Date    : Wednesday 04 December 2024 11:35:19 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
+------------------------
+Package: wl_shimeji-git
+Version         : 0.0.1.r70.392a83d-1
+Description     : Shimeji reimplementation for Wayland in C
+Install Date    : Monday 03 February 2025 06:35:51 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : None
 ------------------------
 Package: wpa_supplicant
 Version         : 2:2.11-3
@@ -1836,14 +1876,6 @@ Package: xorg-xrandr
 Version         : 1.5.3-1
 Description     : Primitive command line interface to RandR extension
 Install Date    : Monday 18 November 2024 02:08:10 AM
-Install Reason  : Explicitly installed
-Install Script  : No
-Validated By    : Signature
-------------------------
-Package: xterm
-Version         : 397-2
-Description     : X Terminal Emulator
-Install Date    : Saturday 18 January 2025 01:07:42 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

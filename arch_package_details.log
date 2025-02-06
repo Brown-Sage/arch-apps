@@ -1,4 +1,4 @@
-Package details 2025-02-06 03:00:18
+Package details 2025-02-07 03:00:18
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -81,9 +81,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: b43-fwcutter
-Version         : 019-5
+Version         : 019-6
 Description     : firmware extractor for the b43 kernel module
-Install Date    : Monday 16 September 2024 03:46:01 PM
+Install Date    : Thursday 06 February 2025 03:29:47 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -241,9 +241,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: dracut
-Version         : 105-1
+Version         : 106-1
 Description     : An event driven initramfs infrastructure
-Install Date    : Monday 14 October 2024 07:21:34 PM
+Install Date    : Thursday 06 February 2025 03:29:48 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -361,9 +361,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-rankmirrors
-Version         : 25.1.3-1
+Version         : 25.1.4-1
 Description     : EndeavourOS mirror ranking tool
-Install Date    : Saturday 01 February 2025 12:33:22 PM
+Install Date    : Thursday 06 February 2025 03:29:48 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -393,9 +393,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: exfatprogs
-Version         : 1.2.6-1
+Version         : 1.2.7-1
 Description     : exFAT filesystem userspace utilities for the Linux Kernel exfat driver
-Install Date    : Wednesday 20 November 2024 04:17:04 PM
+Install Date    : Thursday 06 February 2025 03:29:48 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -441,9 +441,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firefox
-Version         : 134.0.2-1
+Version         : 135.0-1
 Description     : Fast, Private & Safe Web Browser
-Install Date    : Wednesday 29 January 2025 09:11:07 PM
+Install Date    : Thursday 06 February 2025 03:29:49 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -481,9 +481,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: gedit
-Version         : 48.1-2
+Version         : 48.1-3
 Description     : Easy-to-use general-purpose text editor
-Install Date    : Friday 24 January 2025 11:00:48 AM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -545,9 +545,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-control-center
-Version         : 47.3-1
+Version         : 47.4-1
 Description     : GNOME's main interface to configure various aspects of the desktop
-Install Date    : Saturday 18 January 2025 01:07:32 AM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -593,17 +593,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-shell
-Version         : 1:47.3-1
+Version         : 1:47.4-1
 Description     : Next generation desktop shell
-Install Date    : Saturday 18 January 2025 01:07:32 AM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-shell-extensions
-Version         : 47.3-1
+Version         : 47.4-1
 Description     : Extensions for GNOME shell, including classic mode
-Install Date    : Sunday 02 February 2025 03:35:04 AM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -617,9 +617,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: gnome-system-monitor
-Version         : 47.0-3
+Version         : 47.1-1
 Description     : View current processes and monitor system state
-Install Date    : Monday 18 November 2024 02:08:01 AM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -691,7 +691,7 @@ Validated By    : Signature
 Package: gst-libav
 Version         : 1.24.12-1
 Description     : Multimedia graph framework - libav plugin
-Install Date    : Saturday 01 February 2025 12:33:23 PM
+Install Date    : Thursday 06 February 2025 03:32:39 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -699,7 +699,7 @@ Validated By    : Signature
 Package: gst-plugin-pipewire
 Version         : 1:1.2.7-1
 Description     : Multimedia graph framework - pipewire plugin
-Install Date    : Wednesday 04 December 2024 11:35:24 PM
+Install Date    : Thursday 06 February 2025 03:29:47 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -707,7 +707,7 @@ Validated By    : Signature
 Package: gst-plugins-bad
 Version         : 1.24.12-1
 Description     : Multimedia graph framework - bad plugins
-Install Date    : Saturday 01 February 2025 12:33:23 PM
+Install Date    : Thursday 06 February 2025 03:32:39 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -715,7 +715,7 @@ Validated By    : Signature
 Package: gst-plugins-ugly
 Version         : 1.24.12-1
 Description     : Multimedia graph framework - ugly plugins
-Install Date    : Saturday 01 February 2025 12:33:23 PM
+Install Date    : Thursday 06 February 2025 03:32:39 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -937,9 +937,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux
-Version         : 6.12.10.arch1-1
+Version         : 6.13.1.arch1-1
 Description     : The Linux kernel and modules
-Install Date    : Wednesday 29 January 2025 09:11:10 PM
+Install Date    : Thursday 06 February 2025 03:29:53 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -953,9 +953,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-headers
-Version         : 6.12.10.arch1-1
+Version         : 6.13.1.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
-Install Date    : Wednesday 29 January 2025 09:11:13 PM
+Install Date    : Thursday 06 February 2025 03:29:55 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1097,9 +1097,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: nautilus
-Version         : 47.1-2
+Version         : 47.2-1
 Description     : Default file manager for GNOME
-Install Date    : Thursday 26 December 2024 11:42:17 PM
+Install Date    : Thursday 06 February 2025 03:29:50 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1177,17 +1177,17 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: noto-fonts
-Version         : 1:2025.01.01-1
+Version         : 1:2025.02.01-1
 Description     : Google Noto TTF fonts
-Install Date    : Saturday 18 January 2025 01:07:30 AM
+Install Date    : Thursday 06 February 2025 03:29:48 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: noto-fonts-cjk
-Version         : 20230817-2
+Version         : 20240730-1
 Description     : Google Noto CJK fonts
-Install Date    : Monday 16 September 2024 03:46:05 PM
+Install Date    : Thursday 06 February 2025 03:29:56 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1201,9 +1201,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: noto-fonts-extra
-Version         : 1:2025.01.01-1
+Version         : 1:2025.02.01-1
 Description     : Google Noto TTF fonts - additional variants
-Install Date    : Saturday 18 January 2025 01:07:41 AM
+Install Date    : Thursday 06 February 2025 03:29:57 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1233,9 +1233,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: obsidian
-Version         : 1.8.3-1
+Version         : 1.8.4-2
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
-Install Date    : Saturday 01 February 2025 12:33:24 PM
+Install Date    : Thursday 06 February 2025 03:29:57 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1315,7 +1315,7 @@ Validated By    : Signature
 Package: pipewire-alsa
 Version         : 1:1.2.7-1
 Description     : Low-latency audio/video router and processor - ALSA configuration
-Install Date    : Wednesday 04 December 2024 11:35:28 PM
+Install Date    : Thursday 06 February 2025 03:29:47 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1323,7 +1323,7 @@ Validated By    : Signature
 Package: pipewire-jack
 Version         : 1:1.2.7-1
 Description     : Low-latency audio/video router and processor - JACK replacement
-Install Date    : Wednesday 04 December 2024 11:35:19 PM
+Install Date    : Thursday 06 February 2025 03:29:47 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1331,7 +1331,7 @@ Validated By    : Signature
 Package: pipewire-pulse
 Version         : 1:1.2.7-1
 Description     : Low-latency audio/video router and processor - PulseAudio replacement
-Install Date    : Wednesday 04 December 2024 11:35:21 PM
+Install Date    : Thursday 06 February 2025 03:29:47 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1465,9 +1465,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: rsync
-Version         : 3.4.1-1
+Version         : 3.4.1-2
 Description     : A fast and versatile file copying tool for remote and local files
-Install Date    : Saturday 18 January 2025 01:07:42 AM
+Install Date    : Thursday 06 February 2025 03:29:59 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1521,9 +1521,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: sof-firmware
-Version         : 2024.09.2-1
+Version         : 2025.01-1
 Description     : Sound Open Firmware
-Install Date    : Sunday 08 December 2024 06:50:17 PM
+Install Date    : Thursday 06 February 2025 03:30:00 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1673,9 +1673,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: vim
-Version         : 9.1.1055-1
+Version         : 9.1.1065-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
-Install Date    : Tuesday 04 February 2025 12:00:49 AM
+Install Date    : Thursday 06 February 2025 03:30:00 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

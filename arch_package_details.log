@@ -1,4 +1,4 @@
-Package details 2025-02-07 03:00:18
+Package details 2025-02-09 03:00:20
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -297,9 +297,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: endeavouros-mirrorlist
-Version         : 25.1.1-1
+Version         : 25.2-1
 Description     : EndeavourOS mirrorlist
-Install Date    : Wednesday 29 January 2025 09:11:06 PM
+Install Date    : Sunday 09 February 2025 12:12:55 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -377,9 +377,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: ethtool
-Version         : 1:6.9-1
+Version         : 1:6.11-1
 Description     : Utility for controlling network drivers and hardware
-Install Date    : Monday 16 September 2024 03:46:02 PM
+Install Date    : Sunday 09 February 2025 12:12:55 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -673,9 +673,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: google-chrome
-Version         : 132.0.6834.159-1
+Version         : 133.0.6943.53-1
 Description     : The popular web browser by Google (Stable Channel)
-Install Date    : Wednesday 29 January 2025 10:17:36 PM
+Install Date    : Sunday 09 February 2025 12:22:25 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -921,9 +921,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: libreoffice-still
-Version         : 24.2.7-5
+Version         : 24.8.4-1
 Description     : LibreOffice maintenance branch
-Install Date    : Saturday 18 January 2025 01:07:37 AM
+Install Date    : Sunday 09 February 2025 12:12:57 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -937,9 +937,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux
-Version         : 6.13.1.arch1-1
+Version         : 6.13.1.arch2-1
 Description     : The Linux kernel and modules
-Install Date    : Thursday 06 February 2025 03:29:53 PM
+Install Date    : Sunday 09 February 2025 12:12:58 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -953,9 +953,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-headers
-Version         : 6.13.1.arch1-1
+Version         : 6.13.1.arch2-1
 Description     : Headers and scripts for building modules for the Linux kernel
-Install Date    : Thursday 06 February 2025 03:29:55 PM
+Install Date    : Sunday 09 February 2025 12:13:01 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1121,9 +1121,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: neovim
-Version         : 0.10.4-1
+Version         : 0.10.4-2
 Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
-Install Date    : Sunday 02 February 2025 03:40:18 AM
+Install Date    : Sunday 09 February 2025 12:13:01 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1528,6 +1528,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: stremio
+Version         : 4.4.168-2
+Description     : A one-stop hub for video content aggregation (Movies, TV shows, series, live television or web channels)
+Install Date    : Saturday 08 February 2025 11:33:07 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : None
+------------------------
 Package: sudo
 Version         : 1.9.16.p2-2
 Description     : Give certain users the ability to run some commands as root
@@ -1681,9 +1689,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: visual-studio-code-bin
-Version         : 1.96.4-1
+Version         : 1.97.0-1
 Description     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
-Install Date    : Saturday 18 January 2025 01:29:52 AM
+Install Date    : Sunday 09 February 2025 12:22:24 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -1737,9 +1745,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: wl_shimeji-git
-Version         : 0.0.1.r70.392a83d-1
+Version         : 0.0.1.r92.b9f574f-1
 Description     : Shimeji reimplementation for Wayland in C
-Install Date    : Monday 03 February 2025 06:35:51 PM
+Install Date    : Sunday 09 February 2025 12:22:23 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1887,6 +1895,14 @@ Install Date    : Friday 20 September 2024 06:13:39 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
+------------------------
+Package: zen-browser-bin
+Version         : 1.7.5b-1
+Description     : Performance oriented Firefox-based web browser
+Install Date    : Sunday 09 February 2025 12:22:23 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : None
 ------------------------
 Package: zsh
 Version         : 5.9-5

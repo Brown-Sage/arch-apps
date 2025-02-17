@@ -1,4 +1,4 @@
-Package details 2025-02-16 03:00:03
+Package details 2025-02-18 03:00:05
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -17,9 +17,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: alacritty
-Version         : 0.15.0-1
+Version         : 0.15.1-1
 Description     : A cross-platform, GPU-accelerated terminal emulator
-Install Date    : Saturday 01 February 2025 01:10:11 PM
+Install Date    : Monday 17 February 2025 01:35:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -49,9 +49,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: amd-ucode
-Version         : 20250109.7673dffd-1
+Version         : 20250210.5bc5868b-1
 Description     : Microcode update image for AMD CPUs
-Install Date    : Saturday 18 January 2025 01:07:25 AM
+Install Date    : Monday 17 February 2025 01:35:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -129,9 +129,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: blueprint-compiler
-Version         : 0.14.0-3
+Version         : 0.16.0-1
 Description     : A markup language for GTK user interfaces
-Install Date    : Thursday 26 December 2024 11:42:10 PM
+Install Date    : Monday 17 February 2025 01:35:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -449,9 +449,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firefoxpwa
-Version         : 2.14.0-1
+Version         : 2.14.1-1
 Description     : A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox (native component)
-Install Date    : Wednesday 12 February 2025 06:50:56 PM
+Install Date    : Monday 17 February 2025 01:35:31 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -945,9 +945,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: linux-firmware
-Version         : 20250109.7673dffd-1
+Version         : 20250210.5bc5868b-1
 Description     : Firmware files for Linux
-Install Date    : Saturday 18 January 2025 01:07:38 AM
+Install Date    : Monday 17 February 2025 01:35:32 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1257,9 +1257,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: openrgb-git
-Version         : 0.9.1183.g08d00ff-1
+Version         : 0.9.1235.g015b28c-1
 Description     : Configuration utility for RGB lights supporting motherboards, RAM, & peripherals
-Install Date    : Wednesday 29 January 2025 10:17:37 PM
+Install Date    : Monday 17 February 2025 02:18:12 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None
@@ -1753,9 +1753,9 @@ Install Script  : Yes
 Validated By    : Signature
 ------------------------
 Package: wl_shimeji-git
-Version         : 0.0.1.r103.2ca9a32-1
+Version         : 0.0.1.r104.651e296-1
 Description     : Shimeji reimplementation for Wayland in C
-Install Date    : Wednesday 12 February 2025 07:07:36 PM
+Install Date    : Monday 17 February 2025 02:18:12 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : None

@@ -1,4 +1,4 @@
-Package details 2025-02-18 03:00:05
+Package details 2025-02-21 03:00:04
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -153,9 +153,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: btrfs-progs
-Version         : 6.12-2
+Version         : 6.13-1
 Description     : Btrfs filesystem utilities
-Install Date    : Thursday 26 December 2024 11:42:10 PM
+Install Date    : Wednesday 19 February 2025 09:29:20 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -361,9 +361,9 @@ Install Script  : No
 Validated By    : SHA-256 Sum  Signature
 ------------------------
 Package: eos-rankmirrors
-Version         : 25.1.4-1
+Version         : 25.2-1
 Description     : EndeavourOS mirror ranking tool
-Install Date    : Thursday 06 February 2025 03:29:48 PM
+Install Date    : Wednesday 19 February 2025 09:29:20 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
@@ -441,9 +441,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: firefox
-Version         : 135.0-1
+Version         : 135.0.1-1
 Description     : Fast, Private & Safe Web Browser
-Install Date    : Thursday 06 February 2025 03:29:49 PM
+Install Date    : Wednesday 19 February 2025 09:29:21 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -497,9 +497,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: git
-Version         : 2.48.1-1
+Version         : 2.48.1-2
 Description     : the fast distributed version control system
-Install Date    : Saturday 18 January 2025 01:07:31 AM
+Install Date    : Wednesday 19 February 2025 09:29:22 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1233,9 +1233,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: obsidian
-Version         : 1.8.4-2
+Version         : 1.8.7-1
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
-Install Date    : Thursday 06 February 2025 03:29:57 PM
+Install Date    : Wednesday 19 February 2025 09:29:22 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1265,9 +1265,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: openssh
-Version         : 9.9p1-2
+Version         : 9.9p2-1
 Description     : SSH protocol implementation for remote login, command execution and file transfer
-Install Date    : Friday 25 October 2024 07:04:28 PM
+Install Date    : Wednesday 19 February 2025 09:29:22 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1305,9 +1305,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: perl
-Version         : 5.40.1-1
+Version         : 5.40.1-2
 Description     : A highly capable, feature-rich programming language
-Install Date    : Wednesday 29 January 2025 09:11:14 PM
+Install Date    : Wednesday 19 February 2025 09:29:22 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1361,9 +1361,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: power-profiles-daemon
-Version         : 0.23-2
+Version         : 0.30-1
 Description     : Makes power profiles handling available over D-Bus
-Install Date    : Wednesday 20 November 2024 04:17:06 PM
+Install Date    : Wednesday 19 February 2025 09:29:22 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1385,9 +1385,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: python
-Version         : 3.13.1-1
+Version         : 3.13.2-1
 Description     : The Python programming language
-Install Date    : Saturday 01 February 2025 12:37:03 PM
+Install Date    : Wednesday 19 February 2025 09:29:20 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1433,9 +1433,9 @@ Install Script  : No
 Validated By    : None
 ------------------------
 Package: qbittorrent
-Version         : 5.0.3-1
+Version         : 5.0.4-2
 Description     : An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar
-Install Date    : Thursday 13 February 2025 09:18:32 PM
+Install Date    : Wednesday 19 February 2025 09:29:23 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1585,9 +1585,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: texinfo
-Version         : 7.1.1-1
+Version         : 7.2-1
 Description     : GNU documentation system for on-line information and printed output
-Install Date    : Monday 16 September 2024 03:44:43 PM
+Install Date    : Wednesday 19 February 2025 09:29:23 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1641,9 +1641,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: unrar
-Version         : 1:7.1.3-1
+Version         : 1:7.1.4-1
 Description     : The RAR uncompression program
-Install Date    : Wednesday 29 January 2025 09:11:14 PM
+Install Date    : Wednesday 19 February 2025 09:29:23 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1689,9 +1689,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: vim
-Version         : 9.1.1065-1
+Version         : 9.1.1120-1
 Description     : Vi Improved, a highly configurable, improved version of the vi text editor
-Install Date    : Thursday 06 February 2025 03:30:00 PM
+Install Date    : Wednesday 19 February 2025 09:29:24 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1713,9 +1713,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: wayland-protocols
-Version         : 1.40-1
+Version         : 1.41-1
 Description     : Specifications of extended Wayland protocols
-Install Date    : Wednesday 12 February 2025 06:51:03 PM
+Install Date    : Wednesday 19 February 2025 09:29:24 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1777,9 +1777,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: xdg-desktop-portal-gnome
-Version         : 47.2-1
+Version         : 47.3-1
 Description     : Backend implementation for xdg-desktop-portal for the GNOME desktop environment
-Install Date    : Wednesday 29 January 2025 09:11:15 PM
+Install Date    : Wednesday 19 February 2025 09:29:24 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

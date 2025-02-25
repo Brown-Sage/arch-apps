@@ -1,4 +1,4 @@
-Package details 2025-02-21 03:00:04
+Package details 2025-02-26 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -436,14 +436,6 @@ Package: file-roller
 Version         : 44.5-1
 Description     : Create and modify archives
 Install Date    : Wednesday 12 February 2025 06:50:56 PM
-Install Reason  : Explicitly installed
-Install Script  : No
-Validated By    : Signature
-------------------------
-Package: firefox
-Version         : 135.0.1-1
-Description     : Fast, Private & Safe Web Browser
-Install Date    : Wednesday 19 February 2025 09:29:21 AM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1016,6 +1008,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: mariadb
+Version         : 11.7.2-1
+Description     : Fast SQL database server, derived from MySQL
+Install Date    : Monday 24 February 2025 10:06:40 PM
+Install Reason  : Explicitly installed
+Install Script  : Yes
+Validated By    : Signature
+------------------------
 Package: mdadm
 Version         : 4.4-1
 Description     : A tool for managing/monitoring Linux md device arrays, also known as Software RAID
@@ -1075,7 +1075,7 @@ Validated By    : Signature
 Package: mysql-workbench
 Version         : 8.0.41-1
 Description     : A cross-platform, visual database design tool developed by MySQL
-Install Date    : Wednesday 29 January 2025 09:11:14 PM
+Install Date    : Monday 24 February 2025 10:25:11 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

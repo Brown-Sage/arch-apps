@@ -1,4 +1,4 @@
-Package details 2025-02-26 03:00:03
+Package details 2025-03-03 03:00:02
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -164,6 +164,22 @@ Package: cantarell-fonts
 Version         : 1:0.303.1-2
 Description     : Humanist sans serif font
 Install Date    : Monday 16 September 2024 03:46:00 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: cbindgen
+Version         : 0.28.0-1
+Description     : A tool for generating C bindings to Rust code
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: clang
+Version         : 19.1.7-1
+Description     : C language family frontend for LLVM
+Install Date    : Sunday 02 March 2025 08:36:53 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -872,6 +888,14 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: jq
+Version         : 1.7.1-2
+Description     : Command-line JSON processor
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
 Package: kooha
 Version         : 2.3.0-6
 Description     : Elegantly record your screen
@@ -948,6 +972,22 @@ Package: linux-headers
 Version         : 6.13.2.arch1-1
 Description     : Headers and scripts for building modules for the Linux kernel
 Install Date    : Wednesday 12 February 2025 06:51:02 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: lld
+Version         : 19.1.7-1
+Description     : Linker from the LLVM project
+Install Date    : Sunday 02 March 2025 08:36:53 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: llvm
+Version         : 19.1.7-1
+Description     : Compiler infrastructure
+Install Date    : Sunday 02 March 2025 08:36:53 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1092,6 +1132,14 @@ Package: nano-syntax-highlighting
 Version         : 2022.11.02.r102.gbb94603-1
 Description     : Nano editor syntax highlighting enhancements
 Install Date    : Wednesday 18 September 2024 10:13:04 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: nasm
+Version         : 2.16.03-1
+Description     : 80x86 assembler designed for portability and modularity
+Install Date    : Sunday 02 March 2025 08:36:53 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1712,6 +1760,38 @@ Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
 ------------------------
+Package: wasi-compiler-rt
+Version         : 19.1.6-1
+Description     : WASI LLVM compiler runtime
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: wasi-libc
+Version         : 1:0+410+574b88da-2
+Description     : WASI libc implementation for WebAssembly
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: wasi-libc++
+Version         : 19.1.6-2
+Description     : WASI LLVM C++ standard library
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: wasi-libc++abi
+Version         : 19.1.6-2
+Description     : Low level support for the WASI LLVM C++ standard library
+Install Date    : Sunday 02 March 2025 08:36:52 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
 Package: wayland-protocols
 Version         : 1.41-1
 Description     : Specifications of extended Wayland protocols
@@ -1727,6 +1807,14 @@ Install Date    : Saturday 01 February 2025 12:33:25 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : SHA-256 Sum  Signature
+------------------------
+Package: weston
+Version         : 14.0.0-2
+Description     : Reference implementation of a Wayland compositor
+Install Date    : Sunday 02 March 2025 08:36:53 PM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
 ------------------------
 Package: wget
 Version         : 1.25.0-1
@@ -1892,6 +1980,14 @@ Package: xorg-xrandr
 Version         : 1.5.3-1
 Description     : Primitive command line interface to RandR extension
 Install Date    : Monday 18 November 2024 02:08:10 AM
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+------------------------
+Package: yasm
+Version         : 1.3.0-7
+Description     : A rewrite of NASM to allow for multiple syntax supported (NASM, TASM, GAS, etc.)
+Install Date    : Sunday 02 March 2025 08:36:52 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature

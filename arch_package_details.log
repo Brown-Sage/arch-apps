@@ -1,4 +1,4 @@
-Package details 2025-03-06 03:00:03
+Package details 2025-03-07 03:00:03
 ======================================
 Package: accountsservice
 Version         : 23.13.9-2
@@ -409,9 +409,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: exfatprogs
-Version         : 1.2.7-1
+Version         : 1.2.8-1
 Description     : exFAT filesystem userspace utilities for the Linux Kernel exfat driver
-Install Date    : Thursday 06 February 2025 03:29:48 PM
+Install Date    : Thursday 06 March 2025 11:19:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -601,9 +601,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-shell
-Version         : 1:47.4-1
+Version         : 1:47.5-1
 Description     : Next generation desktop shell
-Install Date    : Thursday 06 February 2025 03:29:50 PM
+Install Date    : Thursday 06 March 2025 11:19:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -665,9 +665,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gnome-usage
-Version         : 46.0-1
+Version         : 46.1-2
 Description     : View information about use of system resources
-Install Date    : Monday 16 September 2024 03:46:12 PM
+Install Date    : Thursday 06 March 2025 11:19:31 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -681,9 +681,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: google-chrome
-Version         : 133.0.6943.141-1
+Version         : 134.0.6998.35-1
 Description     : The popular web browser by Google (Stable Channel)
-Install Date    : Monday 03 March 2025 07:46:28 PM
+Install Date    : Friday 07 March 2025 12:48:44 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -729,9 +729,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: gtk3-classic
-Version         : 3.24.48-2
+Version         : 3.24.49-1
 Description     : Patched GTK+3 that provides a more classic experience
-Install Date    : Sunday 02 February 2025 05:02:23 PM
+Install Date    : Thursday 06 March 2025 11:51:08 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
@@ -833,9 +833,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: hwinfo
-Version         : 23.3-1
+Version         : 23.3-3
 Description     : Hardware detection tool from openSUSE
-Install Date    : Tuesday 05 November 2024 11:25:17 PM
+Install Date    : Thursday 06 March 2025 11:19:33 PM
 Install Reason  : Explicitly installed
 Install Script  : No
 Validated By    : Signature
@@ -1289,9 +1289,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: obsidian
-Version         : 1.8.7-1
+Version         : 1.8.9-1
 Description     : A powerful knowledge base that works on top of a local folder of plain text Markdown files
-Install Date    : Wednesday 19 February 2025 09:29:22 AM
+Install Date    : Thursday 06 March 2025 11:19:33 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1545,9 +1545,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: rustup
-Version         : 1.27.1-1
+Version         : 1.28.1-1
 Description     : The Rust toolchain installer
-Install Date    : Tuesday 01 October 2024 07:02:08 PM
+Install Date    : Thursday 06 March 2025 11:19:34 PM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : Signature
@@ -1753,9 +1753,9 @@ Install Script  : No
 Validated By    : Signature
 ------------------------
 Package: visual-studio-code-bin
-Version         : 1.97.2-2
+Version         : 1.98.0-1
 Description     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
-Install Date    : Monday 03 March 2025 07:46:30 PM
+Install Date    : Friday 07 March 2025 12:48:44 AM
 Install Reason  : Explicitly installed
 Install Script  : Yes
 Validated By    : None
